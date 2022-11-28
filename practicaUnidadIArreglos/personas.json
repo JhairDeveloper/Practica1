@@ -1,0 +1,21 @@
+[
+  {
+    "edad": 22,
+    "nombre": "Chenoa",
+    "genero": "MUJER",
+    "fechaNacimiento": "Oct 10, 2000 12:00:00 AM",
+    "fechaActual": "Nov 28, 2022 11:23:20 AM",
+    "clasificacionEdad": "JOVEN"
+  },
+  {
+    "edad": 22,
+    "nombre": "Cristian",
+    "genero": "HOMBRE",
+    "fechaNacimiento": "Oct 10, 2000 12:00:00 AM",
+    "fechaActual": "Nov 28, 2022 11:23:35 AM",
+    "clasificacionEdad": "JOVEN"
+  },
+  {
+    "nombre": "NO DEFINIDO"
+  }
+]
